@@ -1,2 +1,2 @@
-# accesibilidad
-Portafolio optimizado para la accesibilidad del usuario
+# Curso de accesibilidad web
+
